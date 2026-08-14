@@ -2,9 +2,9 @@
 
 ## 🚀 About Me
 - 🔧 Passionate about **automation testing** and building scalable **UI automation frameworks**
-- 🌱 Currently learning **Playwright** with **TypeScript** and enhancing my skills in **Java**
+- 🌱 Currently learning **AI** with **AI_Agentic** and enhancing my skills in **AI**
 - 💡 Focused on improving **test efficiency** and **framework design**
-- 🤝 Open to collaborating on projects involving **Selenium**, **TestNG**, and **Playwright**
+- 🤝 Open to collaborating on projects involving **Selenium**, **TestNG**, and **Playwright** ,**Cucumber**
 
 ## 🛠️ Tech Stack
 - **Languages:** Java, TypeScript, JavaScript  
