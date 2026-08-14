@@ -1,13 +1,26 @@
-👋 Hi, I’m Karthik Raja M  
-👀 I’m interested in automation testing, UI automation frameworks, and improving test efficiency.  
-🌱 I’m currently learning Playwright for UI automation and enhancing my skills with TypeScript and Java.  
-💞️ I want to collaborate on automation projects, especially around testing frameworks like Selenium, TestNG, and Playwright.  
-📫 How to reach me: You can connect with me on GitHub or via LinkedIn.  
-😄 Pronouns: He/Him  
-⚡ Fun fact: I’ve automated so many tests that I sometimes wish to automate my Tea breaks too!😄😄😄
+# 👋 Hi, I’m Karthik Raja M
 
+## 🚀 About Me
+- 🔧 Passionate about **automation testing** and building scalable **UI automation frameworks**
+- 🌱 Currently learning **Playwright** with **TypeScript** and enhancing my skills in **Java**
+- 💡 Focused on improving **test efficiency** and **framework design**
+- 🤝 Open to collaborating on projects involving **Selenium**, **TestNG**, and **Playwright**
 
-<!---
-Karthik-Raja-M/Karthik-Raja-M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠️ Tech Stack
+- **Languages:** Java, TypeScript, JavaScript  
+- **Frameworks & Tools:** Selenium, Playwright, TestNG, Cucumber  
+- **Other Skills:** EPCIS validation, build validation workflows, QA automation  
+
+## 📫 Connect With Me
+- 🌐 [GitHub](https://github.com/Karthik-Raja-M)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/karthik-raja-m)  
+
+## 😄 Pronouns
+He/Him  
+
+## ⚡ Fun Fact
+I’ve automated so many tests that sometimes I wish I could automate my **tea breaks too!** ☕🤖
+
+---
+
+✨ *“Automation is not just about reducing effort, it’s about enabling innovation.”* ✨
